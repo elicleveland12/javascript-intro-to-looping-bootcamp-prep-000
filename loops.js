@@ -28,4 +28,6 @@ while ([condition]) {
 }
 */
 
-
+function whileLoop(n) {
+  
+}
