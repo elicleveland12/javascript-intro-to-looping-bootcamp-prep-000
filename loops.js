@@ -41,3 +41,6 @@ do {
 } while ([condition]);
 */
 
+function doWhileLoop(array) {
+  
+}
