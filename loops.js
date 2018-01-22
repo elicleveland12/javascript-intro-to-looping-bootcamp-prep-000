@@ -29,8 +29,8 @@ while ([condition]) {
 */
 
 function whileLoop(n) {
-  --n;
   while (n === 0) {
-    console.log('done');
+    console.log(--n);
   }
+  return "done"
 }
