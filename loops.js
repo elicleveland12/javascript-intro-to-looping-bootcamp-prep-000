@@ -30,7 +30,7 @@ while ([condition]) {
 
 function whileLoop(n) {
   --n;
-  while (n < 1) {
+  while (n === 0) {
     console.log('done');
   }
 }
